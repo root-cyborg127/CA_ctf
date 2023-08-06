@@ -1,0 +1,20 @@
+Download the Image: The first step is to download the image provided for the challenge.
+
+Open the Image: Open the image using an image viewer or editor to inspect it visually. Sometimes, you might find hints or hidden messages in the image itself.
+
+Steganography: Steganography involves hiding information within an image. You'll need to use steganography techniques to extract the hidden data from the image.
+
+
+Decode the Hidden Data: Use the appropriate steganography tool to decode the hidden data from the image.
+
+Base64 Decoding: The result obtained from the steganography might be in base64 encoded format. You'll need to decode it to reveal the actual content.
+
+SHA-256 Encoding: After decoding the base64 data, you'll likely find another Hashed. It's mentioned that this Hashed string is in SHA-256 
+
+Decode the SHA-256 Hash 
+
+Find the Flag: The decoded data, whether it's a plaintext or a hashed string, should lead you to the final flag. Once you have the flag, you can proceed to submit it to the submission page mentioned in the challenge description.
+
+Submit the Flag: Visit the URL provided (http://localhost/ctf/main.php) and enter the flag into the submission box. If the flag is correct, you should receive confirmation that you have successfully completed the challenge.
+
+Remember that during the CTF, you might encounter various challenges and puzzles, so always be ready to apply different techniques and approaches to solve them. Good luck, and have fun!
